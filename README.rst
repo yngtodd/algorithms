@@ -12,7 +12,7 @@
 Algorithms Fourth Edition
 =========================
 
-Code following along Sedgewich and Wayne's `Algorithms Fourth Edition`_.
+Code following along Sedgewick and Wayne's `Algorithms Fourth Edition`_.
 
 Documentation
 --------------
