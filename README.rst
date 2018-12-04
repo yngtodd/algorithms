@@ -36,4 +36,4 @@ Once you have a copy of the source, you can install it with:
 
     gradle build 
 
-.. _documentation: https://algorithms.readthedocs.io/en/latest
+.. _documentation: https://algorithmsfourth.readthedocs.io/en/latest/ 
