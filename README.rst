@@ -8,11 +8,11 @@
 
 --------------------------
 
-=============================
+=========================
 Algorithms Fourth Edition
-=============================
+=========================
 
-Code following along Sedgewich and Wayne's Algorithms Fourth Edition.
+Code following along Sedgewich and Wayne's `Algorithms Fourth Edition`_.
 
 Documentation
 --------------
@@ -37,3 +37,4 @@ Once you have a copy of the source, you can install it with:
     gradle build 
 
 .. _documentation: https://algorithmsfourth.readthedocs.io/en/latest/ 
+.. _Algorithms Fourth Edition: https://algs4.cs.princeton.edu/home/
