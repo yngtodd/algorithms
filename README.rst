@@ -24,23 +24,16 @@ Installation
 
 From Sources:
 
-You can either clone the public repository:
+Clone the public repository:
 
 .. code-block:: console
 
     git clone git://github.com/yngtodd/algorithms
 
-Or download the `tarball`_:
-
-.. code-block:: console
-
-    curl  -OL https://github.com/yngtodd/algorithms/tarball/master
-
 Once you have a copy of the source, you can install it with:
 
 .. code-block:: console
 
-    python setup.py install
+    gradle build 
 
-.. _tarball: https://github.com/yngtodd/algorithms/tarball/master
 .. _documentation: https://algorithms.readthedocs.io/en/latest
