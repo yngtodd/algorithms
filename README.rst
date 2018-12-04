@@ -1,0 +1,53 @@
+.. raw:: html
+
+    <embed>
+        <p align="center">
+            <img width="300" src="https://github.com/yngtodd/algorithms/blob/master/img/pylibrary.png">
+        </p>
+    </embed>
+
+--------------------------
+
+.. image:: https://badge.fury.io/py/algorithms.png
+    :target: http://badge.fury.io/py/algorithms
+
+.. image:: https://travis-ci.org/yngtodd/algorithms.png?branch=master
+    :target: https://travis-ci.org/yngtodd/algorithms
+
+
+=============================
+Algorithms Fourth Edition
+=============================
+
+Code following along Sedgewich and Wayne's Algorithms Fourth Edition.
+
+Documentation
+--------------
+ 
+For references, tutorials, and examples check out our `documentation`_.
+
+Installation
+------------
+
+From Sources:
+
+You can either clone the public repository:
+
+.. code-block:: console
+
+    git clone git://github.com/yngtodd/algorithms
+
+Or download the `tarball`_:
+
+.. code-block:: console
+
+    curl  -OL https://github.com/yngtodd/algorithms/tarball/master
+
+Once you have a copy of the source, you can install it with:
+
+.. code-block:: console
+
+    python setup.py install
+
+.. _tarball: https://github.com/yngtodd/algorithms/tarball/master
+.. _documentation: https://algorithms.readthedocs.io/en/latest
