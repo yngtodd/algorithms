@@ -2,7 +2,7 @@
 
     <embed>
         <p align="center">
-            <img width="300" src="https://github.com/yngtodd/algorithms/blob/master/img/algorithms.png">
+            <img width="500" src="https://github.com/yngtodd/algorithms/blob/master/img/algorithms2.png">
         </p>
     </embed>
 
