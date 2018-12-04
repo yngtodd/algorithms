@@ -24,9 +24,10 @@ public class BouncingBall
         double radius = 0.05;
 
         while (true)
-        {
-            if (Math.abs(rx + vx) > 1.0 - radius) vx = -vx;
-            if (Math.abs(ry + vy) > 1.0 - radius) vy = -vy;
+        {   
+            // Hitting the wall changes direction and scrubs some speed.
+            if (Math.abs(rx + vx) > 1.0 - radius) vx = -0.9 * vx;
+            if (Math.abs(ry + vy) > 1.0 - radius) vy = -0.9 * vy;
 
             rx = rx + vx;
             ry = ry + vy;
