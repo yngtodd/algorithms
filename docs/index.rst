@@ -6,6 +6,8 @@
 Algorithms Fourth Edition Documentation
 =============================================
 
+.. image:: _static/img/algorithms2.png
+
 .. toctree::
    :maxdepth: 2
 

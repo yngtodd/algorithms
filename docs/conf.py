@@ -123,12 +123,12 @@ html_theme = "sphinx_rtd_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_logo = "_static/img/pylibrary.png"
+html_logo = "_static/img/algologo.png"
 html_theme_options = {
     'logo_only': True
 }
 
-html_favicon = "_static/img/favicon.ico"
+html_favicon = "_static/img/algorithms.ico"
 
 # -- Options for HTMLHelp output ------------------------------------------
 
