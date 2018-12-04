@@ -128,7 +128,7 @@ html_theme_options = {
     'logo_only': True
 }
 
-html_favicon = "_static/img/algorithms.ico"
+html_favicon = "_static/img/algorithms2.ico"
 
 # -- Options for HTMLHelp output ------------------------------------------
 
