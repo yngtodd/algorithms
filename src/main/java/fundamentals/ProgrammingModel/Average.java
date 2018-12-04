@@ -26,6 +26,8 @@ public class Average
         int count = 0;
         double sum = 0;
 
+        StdOut.println("Enter a series of numbers, followed by Ctrl-d\n");
+
         while (!StdIn.isEmpty())
         {
             double value = StdIn.readDouble();
