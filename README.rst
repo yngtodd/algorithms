@@ -2,18 +2,11 @@
 
     <embed>
         <p align="center">
-            <img width="300" src="https://github.com/yngtodd/algorithms/blob/master/img/pylibrary.png">
+            <img width="300" src="https://github.com/yngtodd/algorithms/blob/master/img/algorithms.png">
         </p>
     </embed>
 
 --------------------------
-
-.. image:: https://badge.fury.io/py/algorithms.png
-    :target: http://badge.fury.io/py/algorithms
-
-.. image:: https://travis-ci.org/yngtodd/algorithms.png?branch=master
-    :target: https://travis-ci.org/yngtodd/algorithms
-
 
 =============================
 Algorithms Fourth Edition
