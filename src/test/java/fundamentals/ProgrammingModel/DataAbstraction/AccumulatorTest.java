@@ -14,7 +14,6 @@ public class AccumulatorTest
             accumulator.addDataValue(data[i]);
         }
 
-        double avg = accumulator.mean();
-        assert avg == 2.5;
+        assert accumulator.mean() == 2.5;
     }
 }
