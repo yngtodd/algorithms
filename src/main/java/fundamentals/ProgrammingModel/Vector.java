@@ -249,6 +249,5 @@ public class Vector
         StdOut.println(" <x, y>    = " + x.dot(y));
         StdOut.println("dist(x, y) = " + x.distanceTo(y));
         StdOut.println("dir(x)     = " + x.direction());
-
     }
 }
