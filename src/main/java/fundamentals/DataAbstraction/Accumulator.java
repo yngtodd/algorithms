@@ -26,8 +26,7 @@ public class Accumulator
 
     public String toString()
     {
-        return "Mean (" + N + " values): " 
-                   + String.format("%7.5f", mean());
+        return "Mean (" + N + " values): " + String.format("%7.5f", mean());
     }
 
     public static void main(String[] args){
