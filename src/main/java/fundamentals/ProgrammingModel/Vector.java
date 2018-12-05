@@ -26,7 +26,6 @@
 
 import edu.princeton.cs.algs4.StdOut;
 
-
 /**
  *  The {@code Vector} class represents a <em>d</em>-dimensional Euclidean vector.
  *  Vectors are immutable: their values cannot be changed after they are created.
@@ -231,7 +230,8 @@ public class Vector
      *
      * @param args the command-line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         double[] xdata = { 1.0, 2.0, 3.0, 4.0 };
         double[] ydata = { 5.0, 2.0, 4.0, 1.0 };
         Vector x = new Vector(xdata);
