@@ -210,7 +210,6 @@ public class Vector
          return this.times(1.0 / this.magnitude());
      }
 
-
     /**
      * Returns a string representation of this vector.
      *
