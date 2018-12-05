@@ -39,8 +39,5 @@ public class Accumulator
             accumulator.addDataValue(data[i]);
             StdOut.println(accumulator);
         }
-
-        double avg = accumulator.mean();
-        StdOut.println(avg);
     }
 }
