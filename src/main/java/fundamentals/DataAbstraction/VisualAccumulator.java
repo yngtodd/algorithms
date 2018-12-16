@@ -20,7 +20,7 @@ public class VisualAccumulator
     public VisualAccumulator(int trials, double max)
     {
         StdDraw.setXscale(0, trials);
-        StdDraw.setYscale(0, max);
+        StdDraw.setYscale(-max, max);
         StdDraw.setPenRadius(0.005);
     }
 
@@ -49,7 +49,7 @@ public class VisualAccumulator
 
         for (int i = 0; i < T; i++)
         {
-            a.addDataValue(StdRandom.random());
+            a.addDataValue(StdRandom.gaussian());
             StdOut.println(a);
         }
     }
