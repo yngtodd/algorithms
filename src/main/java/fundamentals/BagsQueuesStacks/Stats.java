@@ -14,6 +14,7 @@
  *************************************************************************/
 
 import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
 
 public class Stats
 {
@@ -25,6 +26,7 @@ public class Stats
             numbers.add(StdIn.readDouble());
 
         int N = numbers.size();
+        double sum = 0.0;
         for (double x : numbers)
             sum += x;
 
@@ -36,7 +38,7 @@ public class Stats
 
         double std = Math.sqrt(sum/(N-1));
 
-        StdOut.printf("Mean: %2.f\n" mean);
+        StdOut.printf("Mean: %2.f\n", mean);
         StdOut.printf("Std dev: %2.f\n", std);
     }
 }

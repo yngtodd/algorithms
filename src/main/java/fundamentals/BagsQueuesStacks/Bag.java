@@ -25,7 +25,7 @@ public class Bag<Item> implements Iterable<Item>
        N = 0;
     }
 
-    public boolean isEmpty
+    public boolean isEmpty()
     { 
         return first == null; 
     }
